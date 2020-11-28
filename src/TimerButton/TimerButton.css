@@ -7,7 +7,7 @@
     cursor: pointer;
   }
   .button-container>button {
-    margin-top: 6px;
+    margin: 6px;
     font-size: 20px;
     background-color: blue;
     color: wheat;
