@@ -24,8 +24,7 @@ height : var(--timer-height);
 	width : var(--timer-width);
 }
 .container{
-	height: 50%;
-	width: 70%;
+
 	border: #0ce030 ;
 	border-style: ridge;
 	text-align: center;
